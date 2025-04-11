@@ -1,0 +1,27 @@
+/* .card{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    
+    
+}
+@media (min-width:786px){
+    .card{
+    grid-template-columns: repeat(2,1fr);
+    }
+}
+
+@media (min-width:1024px){
+    .card{
+    grid-template-columns: repeat(4,1fr);
+    }
+}
+.card-display{
+    outline: solid gray 0.01rem;
+    margin:2rem;
+    padding: 2rem;
+}
+.card-image{
+    height: 10rem;
+    width: 10rem;
+    
+} */
